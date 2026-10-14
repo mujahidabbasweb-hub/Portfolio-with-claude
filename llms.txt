@@ -1,0 +1,18 @@
+# Mujahid Abbas
+
+> Mujahid Abbas is a freelance AI web and mobile app developer from Pakistan. He builds Laravel web platforms, Flutter mobile apps, custom SaaS products and WordPress/WooCommerce sites for clients worldwide.
+
+## Key facts
+- Role: AI web and mobile app developer (freelance, remote)
+- Core stack: Laravel, PHP, MySQL, Flutter, REST APIs, WordPress, WooCommerce, Firebase
+- Contact: WhatsApp +923219153891
+
+## Pages
+- [Home](https://mujahidabbasweb.netlify.app/): overview and quick answers
+- [About](https://mujahidabbasweb.netlify.app/about): who he is and how he works
+- [Services](https://mujahidabbasweb.netlify.app/services): web apps, Flutter apps, WordPress, AI features, APIs
+- [Projects](https://mujahidabbasweb.netlify.app/projects): Al Malitha Trading & Contracting, Casameds, AR Academy Nishat, ICSST, Orhan Contracting, Grand Arab (GTC)
+- [Markets](https://mujahidabbasweb.netlify.app/markets): USA, UK, UAE and Saudi Arabia
+- [Blog](https://mujahidabbasweb.netlify.app/blog/): guides on Laravel cost and Flutter vs native
+- [Hire me](https://mujahidabbasweb.netlify.app/hire-me): how to start a project
+- [Contact](https://mujahidabbasweb.netlify.app/contact)
